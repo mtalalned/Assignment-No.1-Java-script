@@ -82,3 +82,27 @@
 // Question No. 9
 // var string = '▬▬▬▬▬▬▬▬▬ஜ ۩۞۩ ஜ▬▬▬▬▬▬▬▬▬'
 // alert (string)
+
+// CHAPTER NO. 3
+
+// Question No. 1
+// var age = 28;
+// alert ('I am '+age+' years old');
+
+// Question No. 2
+// var visitTimes = +prompt('How many times have you visited this website ?')
+// document.write('I have visited this site '+visitTimes+' times')
+// alert ('I have visited this site '+visitTimes+' times')
+
+// Question No. 3
+// var birthYear = 1996;
+// document.write ('My birth year is '+birthYear);
+// document.write ('<br>');
+// document.write('Data type of my declared variable is '+typeof(birthYear));
+
+// Question No. 4
+// var visitorName = prompt("what is your name?");
+// var productTitle = "T-Shirt(S)";
+// var productNumber = +prompt("How many T-shirts do you want to order?");
+// document.write('<b>'+visitorName+'</b>'+' ordered ','<b>',productNumber,'</b>'," ",'<b>',productTitle,'</b>',' on XYZ Clothing store');
+
