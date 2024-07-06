@@ -286,3 +286,16 @@
 // document.write ('Amount of Snacks per day: '+snacksPerDay);
 // document.write ('<br>');
 // document.write ('you will need '+(snacksPerDay*(estMaxAge-currentAge))+' chocolate chip to last you until the ripe old age of '+estMaxAge);
+
+// STRING METHODS
+
+// Question No. 1
+// var firstName = prompt ('What is your first name?');
+// var lastName = prompt ('What is your last name?');
+// alert ('Welcome '+firstName+' '+lastName);
+
+// Question No. 2
+// var phoneModel = prompt('What is your favourite phone model?');
+// document.write ('My favourite phone is: '+phoneModel);
+
+// Question No. 3
